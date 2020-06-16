@@ -5,9 +5,7 @@ Project Page: [RT](https://github.com/okramalem/RT)
 
 IINSTALATION
 =====
-Export Files C:/RT-master
-Import You OBS RT_Scene.json and Edit Your audio devinces it
-Run RT.exe login Spotify app no close it or if use Itunes you need Itunes dextop app.
+Export Files C:/RT-master and Import You OBS RT_Scene.json and Edit Your audio devinces it and Run RT.exe login Spotify app no close it or if use Itunes you need Itunes dextop app.
 
 ABOUT
 =====
