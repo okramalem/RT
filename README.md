@@ -3,6 +3,12 @@ RT
 Copyright 2018-2020 Radio Town <radio@radiotown.fi>
 Project Page: [RT](https://github.com/okramalem/RT)
 
+IINSTALATION
+=====
+Export Files C:/RT-master
+Import You OBS RT_Scene.json and Edit Your audio devinces it
+Run RT.exe login Spotify app no close it or if use Itunes you need Itunes dextop app.
+
 ABOUT
 =====
 This small application sits in the system tray and updates a text
