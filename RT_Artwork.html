@@ -1,0 +1,23 @@
+
+<link href="RT_Artwork.css" type="text/css" rel="stylesheet">
+
+<script language="javascript">
+
+function updateImage() {
+
+   obj = document.imagename;
+
+   obj.src = obj.src.split("?")[0] + "?" + new Date().getTime();
+
+   //Following statement sets the delay before the function will
+
+   //call itself again (in milliseconds)
+
+   setTimeout("updateImage()",100);
+
+}
+
+</script>
+
+<body onload="updateImage();">
+<img name="imagename" src="RT_Artwork.jpg" style="position:absolute;top:0;left:0;height:100%;width:100%" />
